@@ -1,14 +1,11 @@
-<h1 align="center">Hi 👋, I'm Samarjit Sahoo</h1>
-<h3 align="center">A creative developer from India</h3>
+<h1 align="center">Samarjit Sahoo</h1>
+<h3 align="center">Software Engineer</h3>
 <br>
 
-<p align="center">- 🔭 I’m currently working on *Private Projects*</p>
+<p align="center">Currently working on *Private Projects*</p>
 
-<p align="center">- 🌱 I’m currently learning *Artificial Intelligence*</p>
+<p align="center">Currently learning *Artificial Intelligence*</p>
 
-<p align="center">- 💬 Ask me about *Machine Learning*</p>
-
-<p align="center">- ⚡ Fun fact *I like chess*</p>
 
 <img src="https://raw.githubusercontent.com/liudf0716/liudf0716/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 
