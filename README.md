@@ -1,4 +1,4 @@
-<h1 align="center">✨Samarjit Sahoo✨</h1>
+<h1 align="center">Samarjit Sahoo</h1>
 <h3 align="center">Software Engineer</h3>
 <br>
 <p align="center">Currently working on - Private Projects</p>
