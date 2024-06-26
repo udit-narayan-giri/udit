@@ -16,7 +16,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/samarjit-sahoo/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="32" width="40" />
   </a>
 </p>
 <h5 align="center">Thanks for visiting my profile</h5>
