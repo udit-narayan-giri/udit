@@ -12,5 +12,8 @@
   <a href="https://linkedin.com/in/samarjit-sahoo/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
+   <a href="https://samarjit.vercel.app" target="_blank">
+    <img align="center" src="internet-svgrepo-com.svg" alt="website" height="30" width="40" />
+  </a>
 </p>
 <h5 align="center">Thanks for visiting my profile</h5>
