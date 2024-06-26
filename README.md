@@ -1,7 +1,7 @@
 <h1 align="center">Samarjit Sahoo</h1>
 <h3 align="center">Software Engineer</h3>
 <p align="center">
-  <img alt="Coding" width="300" src="code.gif">
+  <img alt="Coding" width="250" height="auto" src="code.gif">
 </p>
 <br>
 <p align="center">Currently working on - Private Projects</p>
