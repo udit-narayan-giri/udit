@@ -1,7 +1,7 @@
 <h1 align="center">Samarjit Sahoo</h1>
 <h3 align="center">Software Engineer</h3>
 <p align="center">
-  <img alt="Coding" width="250" height="auto" src="code.gif">
+  <img alt="Coding" width="250" height="auto" src="assets/code.gifcode.gif">
 </p>
 <p align="center">Currently working on - Private Projects</p>
 <p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
