@@ -12,7 +12,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:samarjit9203@gmail.com" target="_blank">
-    <img align="center" src="assets/mail.png" alt="mail" height="30" width="40" />
+    <img align="center" src="assets/mail.png" alt="mail" height="40" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/samarjit-sahoo/" target="_blank">
