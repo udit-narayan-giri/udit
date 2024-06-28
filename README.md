@@ -5,6 +5,8 @@
 </p>
 <p align="center">Currently working on - Private Projects</p>
 <p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
+<img src="https://raw.githubusercontent.com/liudf0716/liudf0716/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+<p align="center"> <a href="https://open.spotify.com/user/31cglsimhjlvopyynqhvapnbu7ki?si=pJG-sJKYSGWpChLtCiDQNg" target="blank"><img src="https://spotify-snowy.vercel.app/api/spotify" alt="itsrishub" /></a> </p>
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="mailto:samarjit9203@gmail.com" target="_blank">
