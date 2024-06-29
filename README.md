@@ -8,6 +8,12 @@
 <img src="https://raw.githubusercontent.com/liudf0716/liudf0716/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 <h3 align="center">Connect with me</h3>
 <p align="center">
+  <a href="https://github.com/samarjit-sahoo/Python_Practice.git" target="_blank">
+    <img align="center" src="assets/python.png" alt="python" height="34" width="40" />
+  </a>
+</p>
+<h3 align="center">Connect with me</h3>
+<p align="center">
   <a href="mailto:samarjit9203@gmail.com" target="_blank">
     <img align="center" src="assets/mail.png" alt="mail" height="34" width="40" />
   </a>
