@@ -15,14 +15,14 @@
 <h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="mailto:samarjit9203@gmail.com" target="_blank">
-    <img align="center" src="assets/mail.png" alt="mail" height="45" width="55" />
+    <img align="center" src="assets/mail.png" alt="mail" height="50" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
    <a href="https://samarjit.vercel.app" target="_blank">
-    <img align="center" src="assets/web.png" alt="website" height="40" width="50" />
+    <img align="center" src="assets/web.png" alt="website" height="45" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/samarjit-sahoo/" target="_blank">
-    <img align="center" src="assets/linkedin.png" alt="linkedin" height="40" width="45" />
+    <img align="center" src="assets/linkedin.png" alt="linkedin" height="45" width="45" />
   </a>
 </p>
