@@ -12,7 +12,7 @@
     <img align="center" src="assets/python.png" alt="python" height="50" width="50" />
   </a>
 </p>
-<h3 align="center">Connect</h3>
+<h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="mailto:samarjit9203@gmail.com" target="_blank">
     <img align="center" src="assets/mail.png" alt="mail" height="45" width="55" />
@@ -26,4 +26,3 @@
     <img align="center" src="assets/linkedin.png" alt="linkedin" height="40" width="45" />
   </a>
 </p>
-<h5 align="center">Thank You</h5>
