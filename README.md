@@ -3,6 +3,10 @@
 <p align="center">
   <img alt="Coding" width="250" height="auto" src="assets/coding.gif">
 </p>
+<h3 align="center">My interests</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial Intelligence;Machine Learning;Data Science;Computer Vision&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Interests">
+</p>
 <p align="center">Currently working on - Private Projects</p>
 <p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
 <img src="https://raw.githubusercontent.com/liudf0716/liudf0716/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
@@ -27,8 +31,5 @@
     <img align="center" src="assets/linkedin.png" alt="linkedin" height="45" width="45" />
   </a>
 </p>
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
- -->
+
 
