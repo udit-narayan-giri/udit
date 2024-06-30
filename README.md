@@ -1,7 +1,7 @@
 <h1 align="center">Samarjit Sahoo</h1>
 <h3 align="center">Software Engineer</h3>
 <p align="center">
-  <img alt="Coding" width="250" height="auto" src="assets/coding.gif">
+ <img alt="Coding" width="300" height="auto" src="assets/coding.gif"/>
 </p>
 <h3 align="center">My interests</h3>
 <p align="center">
@@ -10,7 +10,7 @@
 <p align="center">Currently working on - Private Projects</p>
 <p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
 <img src="https://raw.githubusercontent.com/liudf0716/liudf0716/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=false&no-bg=true&no-frame=true&layout=compact&bg_color=94E06A&title_color=000000&text_color=000000&icon_color=000000"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=false&no-bg=true&no-frame=true&layout=compact&bg_color=082F02&title_color=ffffff&text_color=ffffff&icon_color=000000&width=300"/></p>
 <h3 align="center">Most Wanted Language</h3>
 <p align="center">
   <a href="https://github.com/samarjit-sahoo/Python_Practice.git" target="_blank">
@@ -31,5 +31,4 @@
     <img align="center" src="assets/linkedin.png" alt="linkedin" height="45" width="45" />
   </a>
 </p>
-
 
