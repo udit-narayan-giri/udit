@@ -9,7 +9,7 @@
 </p>
 <p align="center">Currently working on - Private Projects</p>
 <p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
-<img src="https://raw.githubusercontent.com/samarjit-sahoo/samarjit-sahoo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/samarjit-sahoo/samarjit-sahoo/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=false&no-bg=true&no-frame=true&layout=compact&bg_color=082F02&title_color=ffffff&text_color=ffffff&icon_color=000000&width=300"/></p>
 <h3 align="center">Most Wanted Language</h3>
 <p align="center">
