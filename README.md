@@ -11,7 +11,7 @@
 <h3 align="center">Most Wanted Language</h3>
 <p align="center">
   <a href="https://github.com/samarjit-sahoo/Python_Practice.git" target="_blank">
-    <img align="center" src="assets/python.png" alt="python" height="55" width="55" />
+    <img align="center" src="assets/python.png" alt="python" height="65" width="65" />
   </a>
 </p>
 </p>
