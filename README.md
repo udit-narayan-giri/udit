@@ -20,11 +20,11 @@
 </p>  
 <div align="center">
 <a href="https://github.com/samarjit-sahoo">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjit-sahoo&theme=neon" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjit-sahoo&theme=neon" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarjit-sahoo&theme=neon" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjit-sahoo&theme=neon" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjit-sahoo&theme=neon" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjit-sahoo&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjit-sahoo&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarjit-sahoo&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjit-sahoo&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjit-sahoo&theme=2077" height="180em" />
 </div>
 
 <h3 align="center">Most Wanted Language</h3>
