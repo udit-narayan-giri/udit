@@ -33,6 +33,28 @@
     <img align="center" src="assets/linkedin.png" alt="linkedin" height="45" width="45" />
   </a>
 </p>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samarjit-sahoo&show_icons=true&count_private=true" />
+</td>
+
+<td width="50%" align="center">
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samarjit-sahoo&hide_border=false" /> 
+
+ 
+  
+  </td>
+</tr>
+</table>
+</p>  
+
+
+
+
 <div align="center">
 <a href="https://github.com/samarjit-sahoo">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjit-sahoo&theme=2077" height="180em" />
