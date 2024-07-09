@@ -20,9 +20,7 @@
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=false&no-bg=true&no-frame=true&layout=compact&theme=neon&width=300"/></p>
 <p align="center">
-
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samarjit-sahoo&hide_border=false&theme=neon" /> 
-
 </p>  
 <div align="center">
 <a href="https://github.com/samarjit-sahoo">
@@ -32,6 +30,12 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjit-sahoo&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjit-sahoo&theme=2077" height="180em" />
 </div>
+<p align="center">
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=samarjit-sahoo&theme=react-dark"/>
+</p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
