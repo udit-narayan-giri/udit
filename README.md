@@ -18,7 +18,10 @@
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=false&no-bg=true&no-frame=true&layout=compact&theme=neon&width=300"/></p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samarjit-sahoo&theme=darkhub&title=-Issues,-Reviews&row=2&column=3">
+</div>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=false&no-bg=true&no-frame=true&layout=compact&theme=neon"/></p>
 <p align="center">
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samarjit-sahoo&hide_border=false&theme=neon" /> 
 </p>  
