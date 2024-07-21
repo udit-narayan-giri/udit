@@ -33,9 +33,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
 <h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="mailto:samarjit9203@gmail.com" target="_blank">
