@@ -15,9 +15,6 @@
   </a>
 </p>
 </p>
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=false&no-bg=true&no-frame=true&layout=compact&theme=neon"/></p>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=samarjit-sahoo&theme=darkhub&title=-Issues,-Reviews&row=2&column=3">
@@ -36,7 +33,9 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
-
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 <h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="mailto:samarjit9203@gmail.com" target="_blank">
