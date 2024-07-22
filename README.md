@@ -15,12 +15,12 @@
   </a>
 </p>
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=false&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,pug"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,pug"/></p>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samarjit-sahoo&no-bg=true&title=-Reviews,-PullRequest&row=2&column=3">
+  <img src="https://github-profile-trophy.vercel.app/?username=samarjit-sahoo&no-bg=true&no-frame=true&title=-Reviews,-PullRequest&row=2&column=3">
 </div>
 <p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samarjit-sahoo&hide_border=false&theme=transparent" /> 
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samarjit-sahoo&hide_border=true&theme=transparent" /> 
 </p>
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjit-sahoo&theme=transparent" height="180em" />
