@@ -15,7 +15,7 @@
   </a>
 </p>
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=false&no-bg=true&no-frame=true&layout=compact&theme=neon"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=false&no-bg=true&no-frame=true&layout=compact&theme=neon&hide=html,css,pug"/></p>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=samarjit-sahoo&theme=darkhub&title=-Reviews,-PullRequest&row=2&column=3">
 </div>
