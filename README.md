@@ -5,7 +5,7 @@
 </p>
 <h3 align="center">My interests</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial Intelligence;Machine Learning;Deep Learning;Data Science;Computer Vision&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=1000&color=0e8a37" alt="Interests">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial Intelligence;Machine Learning;Deep Learning;Data Science;Computer Vision&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=1000&color=#6A5ACD" alt="Interests">
 <p align="center">Currently working on - Private Projects</p>
 <p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
 <h3 align="center">Most Wanted Language</h3>
@@ -35,7 +35,7 @@
 <h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="mailto:samarjit9203@gmail.com" target="_blank">
-    <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
+    <img align="center" src="assets/gmail.png" alt="mail" height="55" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
    <a href="https://samarjit.vercel.app" target="_blank">
@@ -43,7 +43,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/samarjit-sahoo/" target="_blank">
-    <img align="center" src="assets/linkedin.png" alt="linkedin" height="45" width="45" />
+    <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
   </a>
 </p>
 
