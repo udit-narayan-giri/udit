@@ -15,19 +15,19 @@
   </a>
 </p>
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=false&no-bg=true&no-frame=true&layout=compact&theme=neon&hide=html,css,pug"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=false&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,pug"/></p>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=samarjit-sahoo&theme=darkhub&title=-Reviews,-PullRequest&row=2&column=3">
 </div>
 <p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samarjit-sahoo&hide_border=false&theme=neon" /> 
-</p>  
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samarjit-sahoo&hide_border=false&theme=transparent" /> 
+</p>
 <div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjit-sahoo&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjit-sahoo&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarjit-sahoo&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjit-sahoo&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjit-sahoo&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjit-sahoo&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjit-sahoo&theme=transparent&exclude=CSS,Jupyter%20Notebook" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarjit-sahoo&theme=transparent&exclude=CSS,Jupyter%20Notebook" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjit-sahoo&theme=transparent&utcOffset=5.30" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjit-sahoo&theme=transparent" height="180em" />
 </div>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
@@ -46,3 +46,6 @@
     <img align="center" src="assets/linkedin.png" alt="linkedin" height="45" width="45" />
   </a>
 </p>
+
+
+ 
