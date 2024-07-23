@@ -5,7 +5,7 @@
 </p>
 <h3 align="center">My interests</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial Intelligence;Machine Learning;Deep Learning;Data Science;Computer Vision&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=1000&color=#6A5ACD" alt="Interests">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial Intelligence;Machine Learning;Deep Learning;Data Science&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=1000&color=#6A5ACD" alt="Interests">
 <p align="center">Currently working on - Private Projects</p>
 <p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
 <h3 align="center">Most Wanted Language</h3>
