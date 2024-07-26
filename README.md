@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://samarjit-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css"/>
 </p>
 
 <p align="center">
@@ -57,9 +57,3 @@
     <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
   </a>
 </p>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/omnitenebris">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify" />
-  </a>
-</div>
