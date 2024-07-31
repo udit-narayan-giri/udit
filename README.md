@@ -1,4 +1,7 @@
 <h1 align="center">Samarjit Sahoo</h1>
+<p align="center">
+  <img src="assets/line.gif" width="100%" height="3"/>
+</p>
 <h3 align="center">Software Engineer</h3>
 <p align="center">
   <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
