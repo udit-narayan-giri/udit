@@ -1,8 +1,12 @@
-<h1 align="center">Samarjit Sahoo</h1>
 <p align="center">
-  <img src="assets/line.gif" width="100%" height="3"/>
+  <img src="assets/line.gif" width="100%" height="2"/>
 </p>
-<h3 align="center">Software Engineer</h3>
+<p align="center">
+  <img src="assets/header.png"/>
+</p>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Samarjit+Sahoo;Software+Engineer"/>
+</p>
 <p align="center">
   <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
 </p>
