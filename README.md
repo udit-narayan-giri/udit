@@ -1,6 +1,6 @@
-<!--<p align="center">
+<p align="center">
   <img src="assets/line.gif" width="100%" height="2"/>
-</p>-->
+</p>
 <p align="center">
   <img src="assets/header.png"/>
 </p>
