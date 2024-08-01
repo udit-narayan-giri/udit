@@ -61,4 +61,4 @@
     <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
   </a>
 </p>
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=7E3ACE&style=flat&logo" alt="Go to Top" /></a></p>
