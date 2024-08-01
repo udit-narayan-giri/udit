@@ -32,6 +32,9 @@
 </p>
 
 <!--Trophy-->
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=samarjit-sahoo&no-bg=true&no-frame=true&row=2&column=3"/>
+</div>
 
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjit-sahoo&theme=transparent" height="180em" alt="Stats"/>
