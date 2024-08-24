@@ -54,7 +54,7 @@
     <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://samarjit-sahoo.vercel.app" target="_blank">
+  <a href="https://samarjit.me" target="_blank">
     <img align="center" src="assets/web.png" alt="website" height="50" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
