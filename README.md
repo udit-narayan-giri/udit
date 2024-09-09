@@ -23,6 +23,30 @@
   </a>
 </p>
 
+<h3 align="center">Tech Stack</h3>
+<p align="center">
+    <img align="center" src="assets/c.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/cpp.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/java.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/python.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/html.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/css.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/javascript.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/pug.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/tailwind.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/bootstrap.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/react.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/vite.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/express.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/node.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/flask.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/jinja.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/php.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/mysql.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/mongo.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/git.png" alt="Python" height="65" width="65" />
+</p>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
 </p>
