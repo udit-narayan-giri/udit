@@ -20,7 +20,7 @@
   </a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjitsahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent" alt="Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjitsahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=10" alt="Top Languages"/>
 </p>
 <p align="center">
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samarjitsahoo&hide_border=true&theme=transparent" /> 
