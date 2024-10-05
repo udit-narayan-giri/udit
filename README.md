@@ -53,10 +53,5 @@
     <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
   </a>
 </p>
-<h3 align="center">Follower Stats</h3>
-<p align="center">
-  I am the <a href="https://github.com/samarjitsahoo"><!-- rank -->-th most followed user</a>.  
-  Currently, I have <strong><!-- followers --></strong> followers!
-</p>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
