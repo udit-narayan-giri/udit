@@ -53,8 +53,10 @@
     <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
   </a>
 </p>
-I am the [N-th most followed user](https://github.com/{your-username}).
-
-Currently, I have **<!-- followers -->** followers!
+<h3 align="center">Follower Stats</h3>
+<p align="center">
+  I am the [<!-- rank -->-th most followed user](https://github.com/samarjitsahoo).  
+  Currently, I have **<!-- followers -->** followers!
+</p>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
